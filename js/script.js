@@ -1,3 +1,7 @@
+//https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics
+
+//https://github.com/mdn/learning-area/tree/main/javascript/apis/drawing-graphics/getting-started
+
 //=============== CANVAS SET UP ===================
 // get canvas object:
 const canvas = document.querySelector(".myCanvas");
